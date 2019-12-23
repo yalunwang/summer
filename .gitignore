@@ -1,0 +1,7 @@
+*.iml
+disconf
+.idea
+.gradle
+logs
+out
+.DS_Store
